@@ -1,7 +1,6 @@
 # Informations sur les Codes Postaux
 
-http://forthebadge.com/images/badges/built-with-love.svg 
-https://forthebadge.com/images/featured/featured-uses-html.svg
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)]  [![forthebadge](https://forthebadge.com/images/featured/featured-uses-html.svg)]
 
 Ce projet vous permet de rechercher des informations sur les codes postaux français, notamment la ville associée, le nombre d'habitants, etc.
 
